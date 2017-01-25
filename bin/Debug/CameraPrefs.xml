@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<trueColorEnabled>false</trueColorEnabled>
+
+	<cameras>
+	
+		<camera
+			name="Microsoft LifeCam Cinema"
+			autoFocus="false"
+			autoWhiteBalance="false"
+			
+			focus="2"
+			zoom="0"
+			pan="0"
+			tilt="0"
+			
+			brightness="100"
+			whiteBalance="5300"
+			saturation="0"
+			/>
+
+	</cameras>
+</config>
