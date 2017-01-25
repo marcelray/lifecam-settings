@@ -23,3 +23,5 @@ A couple notes:
 - Higher zoom levels don't seem to take effect. For the LifeCam Studio, it seems to ignore values above 60.
 - Setting auto exposure doesn't seem to work by itself. To enable (or disable) this feature, you need to set the trueColorEnabled tag's value to true (on) or false (off).
 - Note I am not a .NET developer, so it may be a bit rough around the edges, but feel free to do with this source what you will.
+
+For more details on this issue, including others' workarounds for some of the above limitations, please visit this Microsoft Community page: https://answers.microsoft.com/en-us/windows/forum/windows_7-hardware/is-it-possible-to-save-auto-focus-auto-color/e6b812e3-5e52-e011-8dfc-68b599b31bf5
