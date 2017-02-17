@@ -4,8 +4,8 @@ This is a little utility for forcing Microsoft LifeCam webcam settings. It's a c
 
 I have personally tested it with the following cameras:
 
-- Microsoft LifeCam Studio
-- Microsoft LifeCam Cinema
+- Microsoft LifeCam Studio 1080p HD
+- Microsoft LifeCam Cinema 720p HD
 
 After compiling, to use the tool: 
 
