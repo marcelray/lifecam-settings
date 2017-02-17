@@ -1,6 +1,11 @@
-# LifeCam Settings Tool
+# Microsoft LifeCam Webcam Settings Tool
 
-This is a little utility for forcing LifeCam settings. It's a command-line tool that reads in settings via XML—admittedly not the most elegant solution, but it worked great for our needs. Hopefully it will help you, too.
+This is a little utility for forcing Microsoft LifeCam webcam settings. It's a command-line tool that reads in settings via XML—admittedly not the most elegant solution, but it worked great for our needs. Hopefully it will help you, too.
+
+I have personally tested it with the following cameras:
+
+- Microsoft LifeCam Studio
+- Microsoft LifeCam Cinema
 
 After compiling, to use the tool: 
 
